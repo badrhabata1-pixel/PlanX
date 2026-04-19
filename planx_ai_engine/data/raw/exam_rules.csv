@@ -1,0 +1,6 @@
+constraint_type,description,is_hard
+EXAM_DURATION,Each exam lasts 1 hour,1
+BREAK,15 minutes break between periods,0
+MAX_PERIODS_PER_DAY,Maximum 7 periods per day,1
+FIXED_SCHEDULE,No changes except approved cases,1
+DISTRIBUTION,Distribute students across periods,0

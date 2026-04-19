@@ -1,0 +1,68 @@
+row_no,course_code,course_name,students_no,academic_semester,faculty,level_inferred,level_inference_note,exam_group,preferred_exam_days,is_active_exam
+1,AI314,Agent Based Systems,8,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+2,BIOE43,Applied Genomic Technologies,110,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+3,AI224,Artificial Intelligence Programming Languages,506,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+4,AI324,Automated Reasoning,368,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+5,BIO421,Automation Solution in BAIechnology,99,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+6,BIO321,Basic and Population Genatics,104,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+7,BAS00M,Basics of Mathematics,0,2025-2026 Spring,Faculty of Artificial Intelligence,,No usable numeric pattern,,,0
+8,BIO322,Biochemstry,87,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+9,BIO324,Bioinformatics Programming,112,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+10,BIO412,Biological Sequence Analysis,2,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+11,BIO414,Bio-mathematics,2,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+12,BIO423,Biometrics,111,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+13,CSC322,Cloud Architecture and Computing,440,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+14,BIO325,Computational Biology,108,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+15,AI315,Computational Cognitive Science,4,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+16,BIO422,Computational Gene Finding and Genome Assembly,112,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+17,AI323,Computational Neuroscience,439,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+18,CSC223,Computer Architecture,712,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+19,CSC222,Computer Graphics and Vision,371,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+20,CSC312,Computer Security and Cryptography,72,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+21,GEN402,Creativity and Critical Thinking,0,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",0
+22,SECE47,Cyber Intelligence,198,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+23,SEC422,Cyber Security Risk Management,125,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+24,AI414,Cyber-Physical Systems,2,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+25,AI421,Data Center Virtualization,136,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+26,CSC125,Database Management Systems,1436,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+27,AI424,Deep Learning,242,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+28,SEC424,Digital Forensics,123,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+29,BAS126,Discrete Structures,1084,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+30,AI422,Embedded and Real Time Operating Systems,127,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+31,AI326,Embedded Systems and Automation,446,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+32,GEN002,English Language I,185,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+33,GEN101,English Language II,869,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+34,SECE32,Ethical Hacking,119,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+35,AI415,Graduation Project in AI (I),1,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+36,AI425,Graduation Project in AI (II),139,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+37,BIO425,Graduation Project in Bioinformatics (II),122,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+38,SEC425,Graduation Project in Cyber Security (II),128,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+39,AI325,Human Computer Interaction,444,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+40,GEN001,Information Technology,951,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+41,AI413,Interactive Systems Design,10,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+42,AI127,Introduction to Artificial Intelligence,1442,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+43,CSC115,Introduction to Computer Systems,119,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+44,GEN403,Introduction to Economics,121,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+45,GEN202,Legislations Contract and Procurement Management,0,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",0
+46,BAS113,Linear Algebra,429,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+47,BAS221,Modeling and Simulation,595,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+48,BIO315,Molecular and cell biology,24,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+49,AIE45,New trends in IoT,201,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+50,BAS212,Operations Research,8,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+51,BAS123,Probability and Statistics,740,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+52,AI225,Processing Formal and Natural Languages,620,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+53,GEN103,Professional Ethics,0,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",0
+54,GEN003,Psychology and Organization Behavior,308,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+55,GEN505,Quality Assurance,0,2025-2026 Spring,Faculty of Artificial Intelligence,,Numeric pattern does not map cleanly to levels 1-4,,,0
+56,SEC421,Secure Systems Architecture,126,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+57,AIE42,Software Architecture and Interoperability,127,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+58,CSC124,Structural Programming,1362,2025-2026 Spring,Faculty of Artificial Intelligence,1,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+59,AI412,Theory of Automata and Formal Languages,2,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+60,SEC423,Verification of Formal Reactive Systems,115,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+61,AI423,Wireless Sensor Protocols and Programming,141,2025-2026 Spring,Faculty of Artificial Intelligence,4,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+62,AI317,Work-based Professional Project in Artificial Intelligence (I),3,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+63,AI327,Work-based Professional Project in Artificial Intelligence (II),225,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+64,BIO326,Work-based Professional Project in Bioinformatics (II),113,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+65,CSC227,Work-based Professional Project in Computer Science (I),605,2025-2026 Spring,Faculty of Artificial Intelligence,2,Inferred from first significant digit in course code,A,"Saturday,Monday,Wednesday",1
+66,AI327,Work-based Professional Project in Cyber security (II),226,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1
+67,AI317,Work-based Professional Project in Cyber security (I),7,2025-2026 Spring,Faculty of Artificial Intelligence,3,Inferred from first significant digit in course code,B,"Sunday,Tuesday,Thursday",1

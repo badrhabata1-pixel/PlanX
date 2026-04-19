@@ -1,0 +1,12 @@
+parameter,value,source_or_reason
+exam_window_start,2026-04-04,From the rules image you shared
+exam_window_end,2026-04-09,From the rules image you shared
+non_exam_day_included,2026-04-10,Added to make the calendar real-system ready
+default_exam_duration_minutes,60,From the rules image you shared
+default_break_minutes,15,From the rules image you shared
+reserve_period_id,P7,Period 7 treated as a daily reserve slot
+level_group_A,Levels 1 and 2,Example policy requested by you
+level_group_B,Levels 3 and 4,Example policy requested by you
+group_A_days,"Saturday,Monday,Wednesday",Example alternating exam-day pattern
+group_B_days,"Sunday,Tuesday,Thursday",Example alternating exam-day pattern
+max_single_room_capacity,120,Computed from uploaded rooms file

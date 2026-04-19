@@ -1,0 +1,8 @@
+date,day_name,is_exam_day,is_holiday,holiday_name,notes
+2026-04-04,Saturday,1,0,,Midterm exam day
+2026-04-05,Sunday,1,0,,Midterm exam day
+2026-04-06,Monday,1,0,,Midterm exam day
+2026-04-07,Tuesday,1,0,,Midterm exam day
+2026-04-08,Wednesday,1,0,,Midterm exam day
+2026-04-09,Thursday,1,0,,Midterm exam day
+2026-04-10,Friday,0,1,Weekend / No exams,No exam scheduling

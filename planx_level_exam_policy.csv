@@ -1,0 +1,5 @@
+level_id,level_name,exam_group,allowed_exam_days,min_gap_days_between_exams,max_exams_per_day,notes
+1,Level 1,A,"Saturday,Monday,Wednesday",1,1,Alternate-day pattern to create rest days
+2,Level 2,A,"Saturday,Monday,Wednesday",1,1,Alternate-day pattern to create rest days
+3,Level 3,B,"Sunday,Tuesday,Thursday",1,1,Alternate-day pattern to create rest days
+4,Level 4,B,"Sunday,Tuesday,Thursday",1,1,Alternate-day pattern to create rest days
