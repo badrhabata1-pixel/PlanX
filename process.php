@@ -208,9 +208,12 @@
                             $target_name = $name; // الاسم الافتراضي
 
                             // التعرف على ملف الطلاب من الامتداد
-                            if (strpos($lower_name, '.xls') !== false || strpos($lower_name, '.xlsx') !== false) {
-                                $target_name = "student_roster.xls";
-                            } else {
+                           // التعرف على ملف الطلاب من الامتداد والحفاظ عليه
+if (strpos($lower_name, '.xlsx') !== false) {
+    $target_name = "student_roster.xlsx";
+} elseif (strpos($lower_name, '.xls') !== false) {
+    $target_name = "student_roster.xls";
+} else {
                                 // قراءة أول 1000 حرف من الملف للتعرف على محتواه
                                 $file_content = strtolower(file_get_contents($tmp_name, false, null, 0, 1000));
                                 
